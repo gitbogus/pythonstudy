@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<school>
+
+    <lecture category="application">
+
+        <java>Java</java>
+
+        <cpp>Cpp</cpp>
+
+    </lecture>
+
+    <lecture category="web">
+
+        <php>PHP</php>
+
+        <asp>ASP</asp>
+
+    </lecture>
+
+</school>
